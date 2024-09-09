@@ -9,6 +9,3 @@
 - `dataset_RIGHT_SEPARATORS.csv` - A dataset with correctly preproccesed separators, but without some rows, which were cut during preprocessing; it is necessary for the correct cleaning of the dataset
 - `data_rest.xlsx` - Excel file, which was used during preprocessing
 - `sample9060.txt` and `sample23104.txt` - Text file with two samples from original dataset, which were cut and paste back, because of wrong separators in the beginning
-
-## LIDO format
-- `metadata_ORIG` and `dataset_orig_LIDO.xml` Files for working with LIDO format, which Prof.Bell sent us

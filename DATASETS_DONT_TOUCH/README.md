@@ -1,14 +1,14 @@
-**DATASETS_DONT_TOUCH**  
-	Folder with all datasets versions, which are described in related README.txt file inside folder. dataset_CLEANED.csv should be used for all further work
+# Repository description
 
-**emails from Peter Bell**  
-	I put copies of some of his emails here, so they are available for all of us
+## Dataset for the work
+- `dataset_CLEAN.csv` - Cleaned dataset, which **should be used for further analysis, classification, clusterisation etc.**
 
-**Dataset_Cleaning.ipynb**  
-	(don't touch it) Code preproccessing steps of original dataset (DATASETS_DONT_TOUCH/dataset_ORIG.csv)
+## Original dataset and cleaning
+- `dataset_ORIG.csv` - Original dataset, which Prof.Bell sent us in the beginning
+- `dataset_UNICODE.txt` - Original dataset in tabular unicode format; it is necessary for the correct cleaning of the dataset
+- `dataset_RIGHT_SEPARATORS.csv` - A dataset with correctly preproccesed separators, but without some rows, which were cut during preprocessing; it is necessary for the correct cleaning of the dataset
+- `data_rest.xlsx` - Excel file, which was used during preprocessing
+- `sample9060.txt` and `sample23104.txt` - Text file with two samples from original dataset, which were cut and paste back, because of wrong separators in the beginning
 
-**Image_Downloading.ipynb**  
-	Code for downloading images from dataset_CLEAN.csv on your computer
-
-**Reading_LIDO_fromat.ipynb**  
-	Me and ChatGPT were trying to read related LIDO file, but failed. Maybe you could improve it
+## LIDO format
+- `metadata_ORIG` and `dataset_orig_LIDO.xml` Files for working with LIDO format, which Prof.Bell sent us

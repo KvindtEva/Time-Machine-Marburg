@@ -1,10 +1,8 @@
-
 def strings_to_links(df, columns):
 
-    for i in range(df.shape[0]):
+    for i in df.index:
         for column in columns:
-            _ = df.iloc[i][column]
-            if _ == '[]':
-                df.at[i, column] = []
+            if df.loc[i, column] != '[]':
+                df.at[i, column] =  df.loc[i, column][2:-2].split('\', \'')
             else:
-                df.at[i, column] =  _[2:-2].split('\', \'')
+                df.at[i, column] = []

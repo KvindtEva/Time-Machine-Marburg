@@ -12,7 +12,7 @@
 
 
 - **dataset_cleaning.ipynb** - (don't touch it) Code preproccessing of original dataset (datasets/dataset_ORIG.csv)
-- **image_downloading.ipynb** - Code for downloading images from dataset_CLEAN.csv on your computer
+- **image_downloading.ipynb** - Code for downloading images from dataset_CLEAN.csv on your computer. Option 2 is has to be used
 - **baseline_image_model.ipynb** - Code for trying out different image models for image clustering
 - **ground_truth.ipynb** - Code for creating ground truth DataFrame from files on
 - **EDA.ipynb** - Code for exploratory data analysis (EDA) of dataset_CLEAN.csv 

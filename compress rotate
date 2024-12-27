@@ -1,0 +1,44 @@
+!pip install pillow
+
+
+import os
+from PIL import Image
+
+
+def resize_images(input_folder, output_folder, size=(224, 224)):
+
+    # Ensure the output folder exists
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+        print(f"Output folder created at: {output_folder}")
+
+    # Supported image extensions
+    supported_formats = ('.jpg', '.jpeg', '.png', '.bmp', '.tiff')
+
+    # Crawl through the input folder
+    for root, _, files in os.walk(input_folder):
+        for file in files:
+            if file.lower().endswith(supported_formats):
+                input_path = os.path.join(root, file)  # Full path to the image (check the ending)
+                output_path = os.path.join(output_folder, file)  # Save path (check the ending)
+
+                try:
+                    # Open and resize the image
+                    with Image.open(input_path).convert('RGB') as img:
+                        img_resized = img.resize(size, Image.LANCZOS)  # Resize with high quality
+
+                        # Save the resized image in output_folder
+                        img_resized.save(output_path, "JPEG", quality=90)  # Save as JPEG with compression
+ #                      img_resized.save(output_path, "PNG")  # Save as JPEG with compression
+                        print(f"Resized and saved: {output_path}")
+                except Exception as e:
+                    print(f"Error processing {input_path}: {e}")
+
+
+if __name__ == "__main__":
+    # Define input and output folders
+    input_folder = r"F:\UniOlder\Marburg_Informatik\Project_work\test"  # Replace with your source folder
+    output_folder = r"F:\UniOlder\Marburg_Informatik\Project_work\resized"  # Replace with your destination folder
+
+    # Call the function
+    resize_images(input_folder, output_folder)

@@ -5,8 +5,3 @@ https://drive.google.com/drive/folders/1LeFGk9v3oTUXD76JRvzOcM8OIhpYPMH6?usp=dri
 
 the pickled feature list is too big so here is the uploaded link:
 https://drive.google.com/file/d/1X4AkAJfbDqR1PZ7rEf9uhDoXDyZQTs-_/view?usp=drive_link
-
-
-
-
-

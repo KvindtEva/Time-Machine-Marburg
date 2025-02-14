@@ -7,16 +7,23 @@
 - **emails/** - Some copies of Prof.Bell's and  Max Grüntgens' emails are here, so they are available for all of us
 - **images/** - Folder with image files 
 - **config/** - Folder for functions and illustrations in notebooks
-    - **columns_converter.py** - function for converting lists of strings into lists of links (are used inside Notebooks)
-    - **img_downloader.py** - functions for donwloading images (are used inside Notebooks)
+    - **fucntions/columns_converter.py** - function for converting lists of strings into lists of links (are used inside Notebooks)
+    - **fucntions/img_downloader.py** - functions for donwloading images (are used inside Notebooks)
 
 
 - **dataset_cleaning.ipynb** - (don't touch it) Code preproccessing of original dataset (datasets/dataset_ORIG.csv)
 - **image_downloading.ipynb** - Code for downloading images from dataset_CLEAN.csv on your computer. Option 2 is has to be used
 - **baseline_image_model.ipynb** - Code for trying out different image models for image clustering
 - **ground_truth.ipynb** - Code for creating ground truth DataFrame from files on
-- **EDA.ipynb** - Code for exploratory data analysis (EDA) of dataset_CLEAN.csv 
+- **EDA.ipynb** - Code for exploratory data analysis (EDA) of dataset_CLEAN.csv
+- **dataset_MVP.ipynb** - Creating an MVP dataset
+- **obtaining_building_list.ipynb** - Code for extracting uni building info from Wiki and converting it to json
+- **taxonomy_fisrt_clustering.ipynb** - Code for extracting ChatGPT's taxonomy and converting it into json; manual and code choice of outdoor cluster 
 - **DataSetEntityClustering.ipynb** - Code for textual analysis in order to try clusterisation on buildings labels
+- **TMM_baseline_image_model_latest.ipynb.ipynb** - Code for clustering images (30K) into 100 clusters (Hamid)
+- **VectorizingAndPreparingBuildingsDictionarz.ipynb** - 
+- **VectorizingAndPreparingTextualClusters.ipynb** - 
+- **compress_rotate.ipynb** -  
 
 - **imagenet-classes.txt** - lables for RESNET
 
@@ -26,3 +33,7 @@ So dataset_CLEAN.csv (DATASETS_DONT_TOUCH/dataset_CLEAN.csv) is ready for furthe
 
 ## 2 Textual analysis
 In file **DataSetEntityClustering.ipynb** textual analysis and furhter clusterisation is performed.
+
+## 3 Clustering
+
+## 4 Classification

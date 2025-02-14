@@ -1,0 +1,853 @@
+{
+    "Lahntal": {
+        "Biegenstra\u00dfe": [
+            {
+                "name": "Institute building Biegenstra\u00dfe 9, Institutsgeb\u00e4ude",
+                "id_link": "Q130467645",
+                "address_code": "B|10",
+                "address": "Biegenstra\u00dfe 9",
+                "gebnum": "2340"
+            },
+            {
+                "name": "Administration building Biegenstra\u00dfe 10",
+                "id_link": "Q130356703",
+                "address_code": "B|02",
+                "address": "Biegenstra\u00dfe 10",
+                "gebnum": "2360"
+            },
+            {
+                "name": "Administration building Biegenstra\u00dfe 12",
+                "id_link": "Q130356725",
+                "address_code": "B|03",
+                "address": "Biegenstra\u00dfe 12",
+                "gebnum": "2361"
+            },
+            {
+                "name": "Art building Biegenstra\u00dfe 11, Kunstgeb\u00e4ude",
+                "id_link": "Q130548972",
+                "address_code": "B|11",
+                "address": "Biegenstra\u00dfe 11",
+                "gebnum": "2350"
+            },
+            {
+                "name": "Lecture hall building Marburg",
+                "id_link": "Q127868296",
+                "address_code": "B|01",
+                "address": "Biegenstra\u00dfe 14",
+                "gebnum": "2370"
+            },
+            {
+                "name": "Institute building Biegenstra\u00dfe 36, Institutsgeb\u00e4ude",
+                "id_link": "Q130467755",
+                "address_code": "B|12",
+                "address": "Biegenstra\u00dfe 36",
+                "gebnum": "2580"
+            },
+            {
+                "name": "Seminar building Pilgrimstein 12",
+                "id_link": "Q130467794",
+                "address_code": "B|07",
+                "address": "Pilgrimstein 12",
+                "gebnum": "2437"
+            },
+            {
+                "name": "Deutsches Dokumentationszentrum f\u00fcr Kunstgeschichte, Pilgrimstein 14",
+                "id_link": "Q130472821",
+                "address_code": "B|06",
+                "address": "Pilgrimstein 14",
+                "gebnum": "2436"
+            },
+            {
+                "name": "Research Center Deutscher Sprachatlas Pilgrimstein 16",
+                "id_link": "Q130356763",
+                "address_code": "B|05",
+                "address": "Pilgrimstein 16",
+                "gebnum": "2435"
+            },
+            {
+                "name": "Administration building Pilgrimstein 20",
+                "id_link": "Q130472925",
+                "address_code": "B|04",
+                "address": "Pilgrimstein 20",
+                "gebnum": "2434"
+            }
+        ],
+        "Campus Firmanei": [
+            {
+                "name": "Institute building Bunsenstra\u00dfe 3, Institutsgeb\u00e4ude",
+                "id_link": "Q130473036",
+                "address_code": "F|15",
+                "address": "Bunsenstra\u00dfe 3",
+                "gebnum": "2560"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 1+2, Institutsgeb\u00e4ude",
+                "id_link": "Q130473132",
+                "address_code": "F|03",
+                "address": "Deutschhausstra\u00dfe 1 / 2",
+                "gebnum": "2450"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 3, Institutsgeb\u00e4ude",
+                "id_link": "Q130473171",
+                "address_code": "F|04",
+                "address": "Deutschhausstra\u00dfe 3",
+                "gebnum": "2460"
+            },
+            {
+                "name": "University Library Deutschhausstra\u00dfe 9",
+                "id_link": "Q52278251",
+                "address_code": "F|01",
+                "address": "Deutschhausstra\u00dfe 9",
+                "gebnum": "2472"
+            },
+            {
+                "name": "Administration building Deutschhausstra\u00dfe 9",
+                "id_link": "Q130548868",
+                "address_code": "F|01",
+                "address": "Deutschhausstra\u00dfe 9",
+                "gebnum": "2470"
+            },
+            {
+                "name": "Deutsches Haus",
+                "id_link": "Q20816873",
+                "address_code": "F|12",
+                "address": "Deutschhausstra\u00dfe 10",
+                "gebnum": "2410"
+            },
+            {
+                "name": "Administration building Deutschhausstra\u00dfe 11+13, Verwaltungsgeb\u00e4ude",
+                "id_link": "Q130473351",
+                "address_code": "F|05",
+                "address": "Deutschhausstra\u00dfe 11 /13",
+                "gebnum": "2480"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 12, Institutsgeb\u00e4ude",
+                "id_link": "Q130473549",
+                "address_code": "F|14",
+                "address": "Deutschhausstra\u00dfe 12",
+                "gebnum": "2550"
+            },
+            {
+                "name": "Institute building Bunsenstra\u00dfe 2, Institutsgeb\u00e4ude",
+                "id_link": "Q130548895",
+                "address_code": "",
+                "address": "Bunsenstra\u00dfe 2",
+                "gebnum": "2551"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 12, Institutsgeb\u00e4ude",
+                "id_link": "Q130548914",
+                "address_code": "",
+                "address": "Deutschhausstra\u00dfe 12",
+                "gebnum": "2553"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 15, Institutsgeb\u00e4ude",
+                "id_link": "Q130473584",
+                "address_code": "F|06",
+                "address": "Deutschhausstra\u00dfe 15",
+                "gebnum": "2490"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 17, Institutsgeb\u00e4ude",
+                "id_link": "Q130473620",
+                "address_code": "F|11",
+                "address": "Deutschhausstra\u00dfe 17",
+                "gebnum": "2421"
+            },
+            {
+                "name": "Institute building Deutschhausstra\u00dfe 17a, Institutsgeb\u00e4ude",
+                "id_link": "Q130473728",
+                "address_code": "F|10",
+                "address": "Deutschhausstra\u00dfe 17a",
+                "gebnum": "2420"
+            },
+            {
+                "name": "Guest house Deutschhausstra\u00dfe 17b",
+                "id_link": "Q130473782",
+                "address_code": "F|07",
+                "address": "Deutschhausstra\u00dfe 17b",
+                "gebnum": "2424"
+            },
+            {
+                "name": "Music house Deutschhausstra\u00dfe 17c",
+                "id_link": "Q130473812",
+                "address_code": "F|09",
+                "address": "Deutschhausstra\u00dfe 17c",
+                "gebnum": "2427"
+            },
+            {
+                "name": "Greenhouse Deutschhausstra\u00dfe 17d",
+                "id_link": "Q130478856",
+                "address_code": "F|08",
+                "address": "Deutschhausstra\u00dfe 17d",
+                "gebnum": "2426"
+            },
+            {
+                "name": "Mineralogical Museum Firmaneiplatz",
+                "id_link": "Q130549034",
+                "address_code": "F|13",
+                "address": "Firmaneiplatz",
+                "gebnum": "2400"
+            },
+            {
+                "name": "Institute building Ketzerbach 11, Institutsgeb\u00e4ude",
+                "id_link": "Q130478911",
+                "address_code": "F|20",
+                "address": "Ketzerbach 11",
+                "gebnum": "2270"
+            },
+            {
+                "name": "Institute building Pilgrimstein 2, Institutsgeb\u00e4ude",
+                "id_link": "Q130478938",
+                "address_code": "F|02",
+                "address": "Pilgrimstein 2",
+                "gebnum": "2440"
+            }
+        ],
+        "Gutenbergstra\u00dfe": [
+            {
+                "name": "Institute building Gutenbergstra\u00dfe 18",
+                "id_link": "Q130478954",
+                "address_code": "G|01",
+                "address": "Gutenbergstra\u00dfe 18",
+                "gebnum": "2010"
+            },
+            {
+                "name": "Institute building Gutenbergstra\u00dfe 29",
+                "id_link": "Q130467229",
+                "address_code": "G|03",
+                "address": "Gutenbergstra\u00dfe 29",
+                "gebnum": "2000"
+            },
+            {
+                "name": "Institute building Gutenbergstra\u00dfe 29a",
+                "id_link": "Q130478991",
+                "address_code": "G|02",
+                "address": "Gutenbergstra\u00dfe 29a",
+                "gebnum": "2001"
+            },
+            {
+                "name": "Institute building Schulstra\u00dfe 12",
+                "id_link": "Q130479017",
+                "address_code": "G|04",
+                "address": "Schulstra\u00dfe 12",
+                "gebnum": "2015"
+            }
+        ],
+        "Nordstadt": [
+            {
+                "name": "Institute building Bahnhofstra\u00dfe 7",
+                "id_link": "Q130479081",
+                "address_code": "N|01",
+                "address": "Bahnhofstra\u00dfe 7",
+                "gebnum": "2670"
+            },
+            {
+                "name": "Laboratory building Emil-Mannkopff-Stra\u00dfe 2",
+                "id_link": "Q130479137",
+                "address_code": "N|05",
+                "address": "Emil-Mannkopff-Stra\u00dfe 2",
+                "gebnum": "2620"
+            },
+            {
+                "name": "Institute building Lahnstra\u00dfe 3",
+                "id_link": "Q130479184",
+                "address_code": "N|06",
+                "address": "Lahnstra\u00dfe 3",
+                "gebnum": "2612"
+            },
+            {
+                "name": "Institute building Lahnstra\u00dfe 5",
+                "id_link": "Q130479239",
+                "address_code": "N|07",
+                "address": "Lahnstra\u00dfe 5",
+                "gebnum": "2611"
+            },
+            {
+                "name": "Laboratory building Robert-Koch-Stra\u00dfe 4",
+                "id_link": "Q130479255",
+                "address_code": "N|02",
+                "address": "Robert-Koch-Stra\u00dfe 4",
+                "gebnum": "2660"
+            },
+            {
+                "name": "Anatomy-Cytobiology Robert-Koch-Stra\u00dfe 6",
+                "id_link": "Q130479277",
+                "address_code": "N|03",
+                "address": "Robert-Koch-Stra\u00dfe 6",
+                "gebnum": "2650"
+            },
+            {
+                "name": "Animal husbandry building Robert-Koch-Stra\u00dfe 6",
+                "id_link": "Q130479321",
+                "address_code": "",
+                "address": "Robert-Koch-Stra\u00dfe 6",
+                "gebnum": "2651"
+            },
+            {
+                "name": "Anatomy Robert-Koch-Stra\u00dfe 8",
+                "id_link": "Q130479353",
+                "address_code": "N|04",
+                "address": "Robert-Koch-Stra\u00dfe 8",
+                "gebnum": "2640"
+            }
+        ],
+        "Marbacher Weg": [
+            {
+                "name": "Institute building Ketzerbach 63",
+                "id_link": "Q130479406",
+                "address_code": "M|01",
+                "address": "Ketzerbach 63",
+                "gebnum": "2330"
+            },
+            {
+                "name": "Elevator building/glass warehouse Ketzerbach 63",
+                "id_link": "Q130479432",
+                "address_code": "",
+                "address": "Ketzerbach 63",
+                "gebnum": "2331"
+            },
+            {
+                "name": "Warehouse building Marbacher Weg",
+                "id_link": "Q130485470",
+                "address_code": "",
+                "address": "Marbacher Weg",
+                "gebnum": "2313"
+            },
+            {
+                "name": "K\u00fchlturm-Bunker",
+                "id_link": "",
+                "address_code": "",
+                "address": "Marbacher Weg",
+                "gebnum": "2314"
+            },
+            {
+                "name": "Institute building A Marbacher Weg 8",
+                "id_link": "Q130485487",
+                "address_code": "M|04",
+                "address": "Marbacher Weg 8",
+                "gebnum": "2310"
+            },
+            {
+                "name": "Institute building B Marbacher Weg 10",
+                "id_link": "Q130485517",
+                "address_code": "M|03",
+                "address": "Marbacher Weg 10",
+                "gebnum": "2311"
+            },
+            {
+                "name": "Institute building C Marbacher Weg 6",
+                "id_link": "Q130485544",
+                "address_code": "M|02",
+                "address": "Marbacher Weg 6",
+                "gebnum": "2312"
+            },
+            {
+                "name": "Behring Villa",
+                "id_link": "Q130485563",
+                "address_code": "M|05",
+                "address": "Wilhelm-Roser-Str. 2",
+                "gebnum": "2315"
+            }
+        ],
+        "Ortenberg": [
+            {
+                "name": "Institute building Rudolf-Bultmann-Stra\u00dfe 4b",
+                "id_link": "Q130479378",
+                "address_code": "O|01",
+                "address": "Rudolf-Bultmann-Stra\u00dfe 4b",
+                "gebnum": "2730"
+            }
+        ],
+        "Renthof": [
+            {
+                "name": "Institute building Mainzer Gasse 33",
+                "id_link": "Q130485596",
+                "address_code": "R|02",
+                "address": "Mainzer Gasse 33",
+                "gebnum": "2250"
+            },
+            {
+                "name": "Laboratory building I Renthof",
+                "id_link": "Q130485654",
+                "address_code": "",
+                "address": "Renthof",
+                "gebnum": "2261"
+            },
+            {
+                "name": "Pavilion Renthof",
+                "id_link": "Q130485700",
+                "address_code": "",
+                "address": "Renthof",
+                "gebnum": "2262"
+            },
+            {
+                "name": "Renthof outbuilding",
+                "id_link": "Q130485726",
+                "address_code": "",
+                "address": "Renthof",
+                "gebnum": "2265"
+            },
+            {
+                "name": "Renthof material store",
+                "id_link": "Q130485737",
+                "address_code": "",
+                "address": "Renthof",
+                "gebnum": "2266"
+            },
+            {
+                "name": "Garage",
+                "id_link": "",
+                "address_code": "",
+                "address": "Renthof",
+                "gebnum": "2268"
+            },
+            {
+                "name": "Institute building Renthof 5",
+                "id_link": "Q130485745",
+                "address_code": "R|01",
+                "address": "Renthof 5",
+                "gebnum": "2260"
+            },
+            {
+                "name": "Institute building Renthof 6",
+                "id_link": "Q130485942",
+                "address_code": "R|06",
+                "address": "Renthof 6",
+                "gebnum": "2269"
+            },
+            {
+                "name": "Institute building Renthof 7",
+                "id_link": "Q130485959",
+                "address_code": "R|05",
+                "address": "Renthof 7",
+                "gebnum": "2264"
+            },
+            {
+                "name": "Laboratory building II Renthof 7a",
+                "id_link": "Q130485972",
+                "address_code": "R|03",
+                "address": "Renthof 7a",
+                "gebnum": "2263"
+            },
+            {
+                "name": "Institute building Renthof 7b",
+                "id_link": "Q130485986",
+                "address_code": "R|04",
+                "address": "Renthof 7b",
+                "gebnum": "2267"
+            },
+            {
+                "name": "Institute building Roter Graben 10",
+                "id_link": "Q130486006",
+                "address_code": "R|07",
+                "address": "Roter Graben 10",
+                "gebnum": "2320"
+            }
+        ],
+        "Schloss": [
+            {
+                "name": "Landgrave's chancellery",
+                "id_link": "Q130486029",
+                "address_code": "S|02",
+                "address": "Landgraf-Philipp-Stra\u00dfe 4",
+                "gebnum": "2040"
+            },
+            {
+                "name": "Marburg Castle, Landgrafenschloss",
+                "id_link": "Q538301",
+                "address_code": "S|01",
+                "address": "Schlo\u00df 1",
+                "gebnum": "2020"
+            },
+            {
+                "name": "Wilhelmsbau",
+                "id_link": "Q130486115",
+                "address_code": "S|01",
+                "address": "Schlo\u00df 2",
+                "gebnum": "2021"
+            },
+            {
+                "name": "Hessian Scholarship Institution Schlo\u00df 3",
+                "id_link": "Q130486180",
+                "address_code": "S|03",
+                "address": "Schlo\u00df 3",
+                "gebnum": "2022"
+            },
+            {
+                "name": "Hessian Scholarship Institution Schlo\u00df 4(Collegium Philippinum)",
+                "id_link": "Q113832493",
+                "address_code": "S|04",
+                "address": "Schlo\u00df 4",
+                "gebnum": "2023"
+            },
+            {
+                "name": "Stable building Schlo\u00df 5",
+                "id_link": "Q130531492",
+                "address_code": "",
+                "address": "Schlo\u00df 5",
+                "gebnum": "2025"
+            },
+            {
+                "name": "Marburg witch tower",
+                "id_link": "Q130486288",
+                "address_code": "S|05",
+                "address": "Schlo\u00df 5",
+                "gebnum": "2024"
+            }
+        ],
+        "Sport": [
+            {
+                "name": "Aff\u00f6llerwiesen changing rooms (container)",
+                "id_link": "Q130530503",
+                "address_code": "A|02",
+                "address": "Aff\u00f6llerwiesen",
+                "gebnum": "2224"
+            },
+            {
+                "name": "Sports hall Jahnstra\u00dfe 12",
+                "id_link": "Q130530518",
+                "address_code": "A|01",
+                "address": "Jahnstra\u00dfe 12",
+                "gebnum": "2210"
+            },
+            {
+                "name": "Tool shed Jahnstra\u00dfe 12",
+                "id_link": "Q130530600",
+                "address_code": "",
+                "address": "Jahnstra\u00dfe 12",
+                "gebnum": "2212"
+            },
+            {
+                "name": "Stadion",
+                "id_link": "",
+                "address_code": "",
+                "address": "Jahnstra\u00dfe 12",
+                "gebnum": ""
+            },
+            {
+                "name": "Institute building Wehrdaer Weg 11",
+                "id_link": "Q130530567",
+                "address_code": "A|03",
+                "address": "Wehrdaer Weg 11",
+                "gebnum": "2220"
+            },
+            {
+                "name": "Boat shed Wehrdaer Weg 11",
+                "id_link": "Q130530533",
+                "address_code": "A|03",
+                "address": "Wehrdaer Weg 11",
+                "gebnum": "2221"
+            }
+        ],
+        "Universit\u00e4tsstra\u00dfe": [
+            {
+                "name": "Institute building Am Plan 1",
+                "id_link": "Q125926285",
+                "address_code": "U|07",
+                "address": "Am Plan 1",
+                "gebnum": "2130"
+            },
+            {
+                "name": "Institute building Barf\u00fc\u00dferstra\u00dfe 1",
+                "id_link": "Q130530647",
+                "address_code": "U|08",
+                "address": "Barf\u00fc\u00dferstra\u00dfe 1",
+                "gebnum": "2120"
+            },
+            {
+                "name": "Institute building Barf\u00fc\u00dferstra\u00dfe 1a",
+                "id_link": "Q130530672",
+                "address_code": "U|09",
+                "address": "Barf\u00fc\u00dferstra\u00dfe 1a",
+                "gebnum": "2121"
+            },
+            {
+                "name": "Institute building Barf\u00fc\u00dfertor 2",
+                "id_link": "Q130530694",
+                "address_code": "U|10",
+                "address": "Barf\u00fc\u00dfertor 2",
+                "gebnum": "2170"
+            },
+            {
+                "name": "Kugelherrenhaus Marburg",
+                "id_link": "Q130530730",
+                "address_code": "",
+                "address": "Kugelgasse 9+10",
+                "gebnum": "2090"
+            },
+            {
+                "name": "Old University Marburg",
+                "id_link": "Q436345",
+                "address_code": "U|01",
+                "address": "Lahntor 3",
+                "gebnum": "2070"
+            },
+            {
+                "name": "Savignyhaus Marburg",
+                "id_link": "Q130530748",
+                "address_code": "U|03",
+                "address": "Universit\u00e4tsstra\u00dfe 6",
+                "gebnum": "2110"
+            },
+            {
+                "name": "Landgrafenhaus Marburg",
+                "id_link": "Q130530757",
+                "address_code": "U|02",
+                "address": "Universit\u00e4tsstra\u00dfe 7",
+                "gebnum": "2100"
+            },
+            {
+                "name": "Institute building Universit\u00e4tsstra\u00dfe 24",
+                "id_link": "Q130530766",
+                "address_code": "U|04",
+                "address": "Universit\u00e4tsstra\u00dfe 24",
+                "gebnum": "2050"
+            },
+            {
+                "name": "Institute building Universit\u00e4tsstra\u00dfe 25",
+                "id_link": "Q125926100",
+                "address_code": "U|05",
+                "address": "Universit\u00e4tsstra\u00dfe 25",
+                "gebnum": "2060"
+            },
+            {
+                "name": "Pavilion Universit\u00e4tsstra\u00dfe 25",
+                "id_link": "Q130530795",
+                "address_code": "U|06",
+                "address": "Universit\u00e4tsstra\u00dfe 25",
+                "gebnum": "2062"
+            }
+        ],
+        "Wilhelm-R\u00f6pke-Stra\u00dfe": [
+            {
+                "name": "Humanities Institutes Wilhelm-R\u00f6pke-Stra\u00dfe 6",
+                "id_link": "Q124291118",
+                "address_code": "W|02",
+                "address": "Wilhelm-R\u00f6pke-Stra\u00dfe 6",
+                "gebnum": "2390"
+            },
+            {
+                "name": "University Library Marburg Wilhelm-R\u00f6pke-Stra\u00dfe 4",
+                "id_link": "Q125845027",
+                "address_code": "W|01",
+                "address": "Wilhelm-R\u00f6pke-Stra\u00dfe 4",
+                "gebnum": "2380"
+            },
+            {
+                "name": "Seminar container Wilhelm-R\u00f6pke-Stra\u00dfe",
+                "id_link": "Q126727418",
+                "address_code": "W|03",
+                "address": "Wilhelm-R\u00f6pke-Stra\u00dfe 6",
+                "gebnum": "2398"
+            },
+            {
+                "name": "Garages Wilhelm-R\u00f6pke-Stra\u00dfe 6",
+                "id_link": "Q130530988",
+                "address_code": "",
+                "address": "Wilhelm-R\u00f6pke-Stra\u00dfe 6",
+                "gebnum": "2399"
+            }
+        ]
+    },
+    "Lahnberge": {
+        "Conradistra\u00dfe": [
+            {
+                "name": "Central Medical Library Conradistra\u00dfe 3a",
+                "id_link": "Q130536534",
+                "address_code": "C|01",
+                "address": "Conradistra\u00dfe 3a",
+                "gebnum": "3105"
+            },
+            {
+                "name": "Lecture Hall III Conradistra\u00dfe 5",
+                "id_link": "Q130536549",
+                "address_code": "C|02",
+                "address": "Conradistra\u00dfe 5",
+                "gebnum": "3102"
+            },
+            {
+                "name": "Dr. Reinfried Pohl-Center for Medical Education",
+                "id_link": "Q130536571",
+                "address_code": "C|03",
+                "address": "Conradistra\u00dfe 7",
+                "gebnum": "3201"
+            }
+        ],
+        "Hans-Meerwein-Stra\u00dfe": [
+            {
+                "name": "BSL4 high-security laboratory Hans-Meerwein-Stra\u00dfe 2a",
+                "id_link": "Q130536619",
+                "address_code": "",
+                "address": "Hans-Meerwein-Stra\u00dfe 2a",
+                "gebnum": "3076"
+            },
+            {
+                "name": "Biomedical Research Center Hans-Meerwein-Stra\u00dfe 2",
+                "id_link": "Q130536647",
+                "address_code": "H|02",
+                "address": "Hans-Meerwein-Stra\u00dfe 2",
+                "gebnum": "3075"
+            },
+            {
+                "name": "Center for Tumor and Immunobiology Hans-Meerwein-Stra\u00dfe 3",
+                "id_link": "Q130536667",
+                "address_code": "H|03",
+                "address": "Hans-Meerwein-Stra\u00dfe 3",
+                "gebnum": "3210"
+            },
+            {
+                "name": "Institute building Hans-Meerwein-Stra\u00dfe 4",
+                "id_link": "Q130536679",
+                "address_code": "H|01",
+                "address": "Hans-Meerwein-Stra\u00dfe 4",
+                "gebnum": "3220"
+            },
+            {
+                "name": "Old chemical building Hans-Meerwein-Stra\u00dfe 4",
+                "id_link": "Q130536696",
+                "address_code": "H|06",
+                "address": "Hans-Meerwein-Stra\u00dfe 4",
+                "gebnum": "3070"
+            },
+            {
+                "name": "Institute building Hans-Meerwein-Stra\u00dfe 6",
+                "id_link": "Q130536708",
+                "address_code": "H|04",
+                "address": "Hans-Meerwein-Stra\u00dfe 6",
+                "gebnum": "3060"
+            },
+            {
+                "name": "Lecture hall building Hans-Meerwein-Stra\u00dfe 8",
+                "id_link": "Q130536727",
+                "address_code": "H|05",
+                "address": "Hans-Meerwein-Stra\u00dfe 8",
+                "gebnum": "3071"
+            }
+        ],
+        "Karl-von-Frisch-Stra\u00dfe": [
+            {
+                "name": "Biochemical-Pharmacological Center Karl-von-Frisch-Stra\u00dfe 2",
+                "id_link": "Q130537191",
+                "address_code": "K|03",
+                "address": "Karl-von-Frisch-Stra\u00dfe 2",
+                "gebnum": "3040"
+            },
+            {
+                "name": "Institute building Karl-von-Frisch-Stra\u00dfe 4",
+                "id_link": "Q130542853",
+                "address_code": "K|02",
+                "address": "Karl-von-Frisch-Stra\u00dfe 4",
+                "gebnum": "3010"
+            },
+            {
+                "name": "Outbuilding Karl-von-Frisch-Stra\u00dfe 4",
+                "id_link": "Q130542926",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 4",
+                "gebnum": "3011"
+            },
+            {
+                "name": "Greenhouse Karl-von-Frisch-Stra\u00dfe 6",
+                "id_link": "Q130542958",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 6",
+                "gebnum": "3031"
+            },
+            {
+                "name": "Equipment, greenhouse and showhouse facilities Karl-von-Frisch-Stra\u00dfe 6",
+                "id_link": "Q130542996",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 6",
+                "gebnum": "3032"
+            },
+            {
+                "name": "Equipment shed I Karl-von-Frisch-Stra\u00dfe 6",
+                "id_link": "Q130543007",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 6",
+                "gebnum": "3033"
+            },
+            {
+                "name": "Equipment shed II Karl-von-Frisch-Stra\u00dfe 6",
+                "id_link": "Q130543018",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 6",
+                "gebnum": "3034"
+            },
+            {
+                "name": "Restroom building/North Karl-von-Frisch-Stra\u00dfe 6",
+                "id_link": "Q130543027",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 6",
+                "gebnum": "3035"
+            },
+            {
+                "name": "Restroom building/South Karl-von-Frisch-Stra\u00dfe 6",
+                "id_link": "Q130543038",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 6",
+                "gebnum": "3036"
+            },
+            {
+                "name": "Institute building Karl-von-Frisch-Stra\u00dfe 8",
+                "id_link": "Q130543064",
+                "address_code": "K|05",
+                "address": "Karl-von-Frisch-Stra\u00dfe 8",
+                "gebnum": "3050"
+            },
+            {
+                "name": "Lecture hall building Karl-von-Frisch-Stra\u00dfe 8",
+                "id_link": "Q130548945",
+                "address_code": "",
+                "address": "Karl-von-Frisch-Stra\u00dfe 8",
+                "gebnum": "3051"
+            },
+            {
+                "name": "Institute building Karl-von-Frisch-Stra\u00dfe 8a",
+                "id_link": "Q130543075",
+                "address_code": "K|06",
+                "address": "Karl-von-Frisch-Stra\u00dfe 8a",
+                "gebnum": "3053"
+            },
+            {
+                "name": "Animal husbandry Karl-von-Frisch-Stra\u00dfe 8b",
+                "id_link": "Q130543128",
+                "address_code": "K|07",
+                "address": "Karl-von-Frisch-Stra\u00dfe 8b",
+                "gebnum": "3052"
+            },
+            {
+                "name": "Animal area Neurophysics Karl-von-Frisch-Stra\u00dfe 12",
+                "id_link": "Q130543272",
+                "address_code": "K|08",
+                "address": "Karl-von-Frisch-Stra\u00dfe 12",
+                "gebnum": "3054"
+            },
+            {
+                "name": "Center for Synthetic Microbiology Karl-von-Frisch-Stra\u00dfe 14",
+                "id_link": "Q130543314",
+                "address_code": "K|09",
+                "address": "Karl-von-Frisch-Stra\u00dfe 14",
+                "gebnum": "3260"
+            },
+            {
+                "name": "Laboratory building Karl-von-Frisch-Stra\u00dfe 16",
+                "id_link": "Q130543328",
+                "address_code": "K|10",
+                "address": "Karl-von-Frisch-Stra\u00dfe 16",
+                "gebnum": "3251"
+            },
+            {
+                "name": "Laboratory building Karl-von-Frisch-Stra\u00dfe 18",
+                "id_link": "Q130543350",
+                "address_code": "K|11",
+                "address": "Karl-von-Frisch-Stra\u00dfe 18",
+                "gebnum": "3252"
+            }
+        ]
+    }
+}

@@ -3,10 +3,10 @@
 ## Important notes
 - Files uses (semicolon) as the separator instead of a comma.
 - Encoding 'utf-8'
-- In these datasets  there are objects, obtained from https://www.bildindex.de/ (specifically archive of Marburg). In `objects.csv` there are some objects included, which doesn't have any images. However in `images.csv` we avoided storage of such images, since our goal was to work with images.
+- In these datasets there are objects, obtained from https://www.bildindex.de/ (specifically archive of Marburg). In `objects.csv` there are some objects included, which doesn't have any images. However in `images.csv` we avoided storage of such images, since our goal was to work with images.
 
 ## Other deliveries
-AI-generated video from images: https://drive.google.com/drive/folders/1ZAkdSarBqYRWmt-mQfPhxTTg7Ex7EM2Z?usp=drive_link
+AI-generated video from images and database structure: https://drive.google.com/drive/folders/1ZAkdSarBqYRWmt-mQfPhxTTg7Ex7EM2Z?usp=drive_link
 
 ## Datasets
 

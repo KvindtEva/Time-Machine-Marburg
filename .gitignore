@@ -1,2 +1,4 @@
 MarburgLens/processed_data/test/Bahnhofstraße 7/20250419_180859.jpg
 *.jpg
+VAE_clustering/vae_minimal.pth
+VAE_clustering/vae_test.pth

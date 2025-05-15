@@ -1,10 +1,11 @@
 # Time-Machine-Marburg 🏛️
 "Time Machine Marburg" is multimodal historical data structuring project that aims to analyze and organize a complex dataset from the photo archive of Marburg, consisting of historical images, objects, landscapes, maps, portraits, texts and more. Particularly, it involves Natural Language Processing, Computer Vision, and Web Metadata Extraction, transforming a raw archive into a structured dataset as well as separating university-related buildings images for further use by another team, which will create historical storytelling to the anniversary of the university.
 
-**Authors:** [Eva Kvindt](www.linkedin.com/in/eva-kvindt), Hamidreza Khoshvaghti, Soroush Daftarian
+**Authors:** [Eva Kvindt](www.linkedin.com/in/eva-kvindt), Hamidreza Khoshvaghti, Soroush Daftarian  
 **More information:** [Project Documentation](https://zenodo.org/records/15427716?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImJiN2YyM2E2LTNmMmEtNDg3NS1iNjliLTFhYTZhN2VjYmM1YSIsImRhdGEiOnt9LCJyYW5kb20iOiI4NzBkOTdiYTQ3ZTFkMDU0OTkwY2M1ZmQ0NjJkNjAxZiJ9.1KtO70OIetgZX_Q2k7_fouTeI-R-efhNVc-JrhMEaiKBoL5rKALWmA_u8aNQEM29pEchoHCadWhKkOzuW3lA2A)
 
-![cover](config/pics/git_overview_pic.png)
+![cover](https://github.com/KvindtEva/Time-Machine-Marburg/blob/main/config/pics/git_overview_pic.png?raw=true)
+
 
 
 
@@ -32,16 +33,7 @@ If you're only interested in using the cleaned and classified data (e.g., for st
 
 
 
-
-
-
-
-
-
-
-
-
-## Description of repository
+## Repository Structure
 
 - **datasets_benchmark/** - Folder with benchmark for clustering testing. Inside are folders for different physical objects (e.g. Elisabethkirche or Kliniken) 
 - **datasets/** - Folder with all datasets versions, which are described in related README.md file inside folder. dataset_CLEANED_ver2.csv should be used for all further work (objects are structured, missing values are filled)

@@ -29,6 +29,7 @@ Time-Machine-Marburg/
 │   ├── delivery/            # Delivery datasets for further research
 │   │   └── ...              
 │   └── production/          # Datasets used in production and there 'time stamps'
+|       ├── compressed_rotated/     # Folder with compressed and rotated images for ResNET
 │       ├── dataset_CLEAN.csv
 │       ├── dataset_MVP.csv
 │       ├── dataset_labels.csv

@@ -39,6 +39,8 @@ Time-Machine-Marburg/
 │   ├── 02_exploratory_data_analysis.ipynb # Data exploration and analysis
 │   ├── 02_image_downloading.ipynb         # Code for image downloading from links
 │   ├── 03_delivery_format_creation.ipynb  # Final dataset format preparation
+|   ├── 04_Dataset_Compressed_and_RotateFix.ipynb  # Compressing and rotating images for clustering and 
+|   |                                        classification model
 │   ├── 05_baseline_image_model.ipynb      # Experiments with image modesls
 │   ├── 06_taxonomy_fisrt_clustering.ipynb # Extraxting clustering taxonomy
 │   ├── 07_obtaining_building_list.ipynb   # Building information extraction from Wiki
@@ -47,6 +49,9 @@ Time-Machine-Marburg/
 │
 ├── config/                # Configuration files and utilities (e.g. picttures, functions, graphs)
 │   ├── functions/         # Some functions, used in notebooks
+│   ├── pics/    
+|   |   └──  clustering_visualisation/          # Visualization of clusters for each case 
+|   |                                           # (Clustering in 20, 50 and 100 clusters)
 │   └── ...                # Configuration files
 │
 ├── requirements.txt        # Python dependencies (for all notebooks!)
